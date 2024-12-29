@@ -1,4 +1,4 @@
-# Cleopatra [live demo](https://moesaid.github.io/cleopatra/)
+# Cleopatra 
 
 ### Cleopatra – Clean & Minimal tailwind css Admin Dashboard Template
 
@@ -38,8 +38,7 @@ There are multiple ways to install Cleopatra.
 **Via Git**
 
 _Clone to your machine_
-
-`git clone https://github.com/moesaid/cleopatra.git`
+`git clone https://github.com/vchandrika/Deliverooo`
 
 <br>
 <br>
